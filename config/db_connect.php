@@ -2,8 +2,8 @@
 
 $host = 'localhost';
 $dbname = 'resavelo';
-$user = 'root';        // adapte si besoin
-$pass = '';            // adapte si besoin
+$user = 'root';        
+$pass = '';            
 
 try {
     $pdo = new PDO(
